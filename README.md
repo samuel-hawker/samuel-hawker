@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on the IBM Events Operator (Kafka Kubernetes Operator) and IBM Event Endpoint Management Operator.
+- 🌱 I’m currently learning Golang Kubernetes Operators, Java Kubernetes Operators, Rustlang.
+- 👯 I’m looking to collaborate on Open Source operator projects.
+- 💬 Ask me about Kubernetes Operators and Board Games!
+- 📫 How to reach me: sam.b.hawker@gmail.com
+- 😄 Pronouns: He/Him
 
 <!--
 **samuel-hawker/samuel-hawker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
